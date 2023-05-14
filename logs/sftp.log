@@ -1,0 +1,361 @@
+May  9 19:30:24 10.71.57.0 tmp112173347-804 Connection from 10.71.57.0 port 29138 on 82.165.88.81 port 22
+May  9 19:30:24 10.71.57.0 tmp112173347-804 Accepted password for tmp112173347-804 from 10.71.57.0 port 29138 ssh2
+May  9 19:30:24 10.71.57.0 tmp112173347-804 Starting session: subsystem 'sftp' for tmp112173347-804 from 10.71.57.0 port 29138 id 0
+May  9 19:30:24 10.71.57.0 tmp112173347-804 session opened for local user tmp112173347-804 from [10.71.57.0]
+May  9 19:30:36 10.71.57.0 tmp112173347-804 Connection from 10.71.57.0 port 29174 on 82.165.88.81 port 22
+May  9 19:30:36 10.71.57.0 tmp112173347-804 Accepted password for tmp112173347-804 from 10.71.57.0 port 29174 ssh2
+May  9 19:31:13 10.71.57.0 tmp112173347-804 open "/script.js" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:31:13 10.71.57.0 tmp112173347-804 close "/script.js" bytes read 0 written 8952
+May  9 19:31:13 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|8952|0|0|0|2f7363726970742e6a73|]
+May  9 19:31:13 10.71.57.0 tmp112173347-804 open "/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:31:13 10.71.57.0 tmp112173347-804 close "/index.php" bytes read 0 written 3699
+May  9 19:31:13 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|3699|0|0|0|2f696e6465782e706870|]
+May  9 19:31:13 10.71.57.0 tmp112173347-804 open "/header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:31:13 10.71.57.0 tmp112173347-804 close "/header.php" bytes read 0 written 2752
+May  9 19:31:13 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|2752|0|0|0|2f6865616465722e706870|]
+May  9 19:31:13 10.71.57.0 tmp112173347-804 open "/styles.css" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:31:13 10.71.57.0 tmp112173347-804 close "/styles.css" bytes read 0 written 204
+May  9 19:31:13 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|204|0|0|0|2f7374796c65732e637373|]
+May  9 19:32:11 10.71.57.0 tmp112173347-804 mkdir name "/add-to-map" mode 0777
+May  9 19:32:11 10.71.57.0 tmp112173347-804 [10.71.57.0|mkdir|0|0|511|0|0|2f6164642d746f2d6d6170|]
+May  9 19:32:28 10.71.57.0 tmp112173347-804 open "/add-to-map/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:32:28 10.71.57.0 tmp112173347-804 close "/add-to-map/index.php" bytes read 0 written 1566
+May  9 19:32:28 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|1566|0|0|0|2f6164642d746f2d6d61702f696e6465782e706870|]
+May  9 19:32:28 10.71.57.0 tmp112173347-804 open "/add-to-map/save_route.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:32:28 10.71.57.0 tmp112173347-804 close "/add-to-map/save_route.php" bytes read 0 written 1006
+May  9 19:32:28 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|1006|0|0|0|2f6164642d746f2d6d61702f736176655f726f7574652e706870|]
+May  9 19:32:28 10.71.57.0 tmp112173347-804 open "/add-to-map/script.js" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:32:28 10.71.57.0 tmp112173347-804 close "/add-to-map/script.js" bytes read 0 written 3129
+May  9 19:32:28 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|3129|0|0|0|2f6164642d746f2d6d61702f7363726970742e6a73|]
+May  9 19:32:28 10.71.57.0 tmp112173347-804 open "/add-to-map/styles.css" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:32:28 10.71.57.0 tmp112173347-804 close "/add-to-map/styles.css" bytes read 0 written 73
+May  9 19:32:28 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|73|0|0|0|2f6164642d746f2d6d61702f7374796c65732e637373|]
+May  9 19:33:51 10.71.57.0 tmp112173347-804 mkdir name "/account-login" mode 0777
+May  9 19:33:51 10.71.57.0 tmp112173347-804 [10.71.57.0|mkdir|0|0|511|0|0|2f6163636f756e742d6c6f67696e|]
+May  9 19:34:05 10.71.57.0 tmp112173347-804 mkdir name "/account-login/classes" mode 0777
+May  9 19:34:05 10.71.57.0 tmp112173347-804 [10.71.57.0|mkdir|0|0|511|0|0|2f6163636f756e742d6c6f67696e2f636c6173736573|]
+May  9 19:34:14 10.71.57.0 tmp112173347-804 mkdir name "/account-login/includes" mode 0777
+May  9 19:34:14 10.71.57.0 tmp112173347-804 [10.71.57.0|mkdir|0|0|511|0|0|2f6163636f756e742d6c6f67696e2f696e636c75646573|]
+May  9 19:34:30 10.71.57.0 tmp112173347-804 open "/account-login/classes/dbh.class.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:34:30 10.71.57.0 tmp112173347-804 close "/account-login/classes/dbh.class.php" bytes read 0 written 790
+May  9 19:34:30 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|790|0|0|0|2f6163636f756e742d6c6f67696e2f636c61737365732f6462682e636c6173732e706870|]
+May  9 19:34:31 10.71.57.0 tmp112173347-804 open "/account-login/classes/login-controller.class.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:34:31 10.71.57.0 tmp112173347-804 close "/account-login/classes/login-controller.class.php" bytes read 0 written 289
+May  9 19:34:31 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|289|0|0|0|2f6163636f756e742d6c6f67696e2f636c61737365732f6c6f67696e2d636f6e74726f6c6c65722e636c6173732e706870|]
+May  9 19:34:31 10.71.57.0 tmp112173347-804 open "/account-login/classes/login.class.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:34:31 10.71.57.0 tmp112173347-804 close "/account-login/classes/login.class.php" bytes read 0 written 1595
+May  9 19:34:31 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|1595|0|0|0|2f6163636f756e742d6c6f67696e2f636c61737365732f6c6f67696e2e636c6173732e706870|]
+May  9 19:34:31 10.71.57.0 tmp112173347-804 open "/account-login/classes/signup-controller.class.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:34:31 10.71.57.0 tmp112173347-804 close "/account-login/classes/signup-controller.class.php" bytes read 0 written 1934
+May  9 19:34:31 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|1934|0|0|0|2f6163636f756e742d6c6f67696e2f636c61737365732f7369676e75702d636f6e74726f6c6c65722e636c6173732e706870|]
+May  9 19:34:31 10.71.57.0 tmp112173347-804 open "/account-login/classes/signup.class.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:34:31 10.71.57.0 tmp112173347-804 close "/account-login/classes/signup.class.php" bytes read 0 written 1051
+May  9 19:34:31 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|1051|0|0|0|2f6163636f756e742d6c6f67696e2f636c61737365732f7369676e75702e636c6173732e706870|]
+May  9 19:34:36 10.71.57.0 tmp112173347-804 open "/account-login/classes/dbh.class.php" flags READ mode 0666
+May  9 19:34:36 10.71.57.0 tmp112173347-804 close "/account-login/classes/dbh.class.php" bytes read 790 written 0
+May  9 19:34:36 10.71.57.0 tmp112173347-804 [10.71.57.0|get|0|790|0|0|0|2f6163636f756e742d6c6f67696e2f636c61737365732f6462682e636c6173732e706870|]
+May  9 19:34:39 10.71.57.0 tmp112173347-804 open "/account-login/classes/dbh.class.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:34:39 10.71.57.0 tmp112173347-804 close "/account-login/classes/dbh.class.php" bytes read 0 written 790
+May  9 19:34:39 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|790|0|0|0|2f6163636f756e742d6c6f67696e2f636c61737365732f6462682e636c6173732e706870|]
+May  9 19:35:06 10.71.57.0 tmp112173347-804 open "/account-login/includes/login.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:35:06 10.71.57.0 tmp112173347-804 close "/account-login/includes/login.inc.php" bytes read 0 written 542
+May  9 19:35:06 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|542|0|0|0|2f6163636f756e742d6c6f67696e2f696e636c756465732f6c6f67696e2e696e632e706870|]
+May  9 19:35:06 10.71.57.0 tmp112173347-804 open "/account-login/includes/logout.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:35:06 10.71.57.0 tmp112173347-804 close "/account-login/includes/logout.inc.php" bytes read 0 written 88
+May  9 19:35:06 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|88|0|0|0|2f6163636f756e742d6c6f67696e2f696e636c756465732f6c6f676f75742e696e632e706870|]
+May  9 19:35:06 10.71.57.0 tmp112173347-804 open "/account-login/includes/signup.inc.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:35:06 10.71.57.0 tmp112173347-804 close "/account-login/includes/signup.inc.php" bytes read 0 written 656
+May  9 19:35:06 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|656|0|0|0|2f6163636f756e742d6c6f67696e2f696e636c756465732f7369676e75702e696e632e706870|]
+May  9 19:35:24 10.71.57.0 tmp112173347-804 open "/account-login/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:35:24 10.71.57.0 tmp112173347-804 close "/account-login/index.php" bytes read 0 written 3550
+May  9 19:35:24 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|3550|0|0|0|2f6163636f756e742d6c6f67696e2f696e6465782e706870|]
+May  9 19:35:58 10.71.57.0 tmp112173347-804 mkdir name "/assets" mode 0777
+May  9 19:35:58 10.71.57.0 tmp112173347-804 [10.71.57.0|mkdir|0|0|511|0|0|2f617373657473|]
+May  9 19:36:17 10.71.57.0 tmp112173347-804 open "/assets/logo_1.png" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:36:17 10.71.57.0 tmp112173347-804 close "/assets/logo_1.png" bytes read 0 written 38686
+May  9 19:36:17 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|38686|0|0|0|2f6173736574732f6c6f676f5f312e706e67|]
+May  9 19:36:28 10.71.57.0 tmp112173347-804 mkdir name "/config" mode 0777
+May  9 19:36:28 10.71.57.0 tmp112173347-804 [10.71.57.0|mkdir|0|0|511|0|0|2f636f6e666967|]
+May  9 19:36:42 10.71.57.0 tmp112173347-804 open "/config/conf.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:36:42 10.71.57.0 tmp112173347-804 close "/config/conf.php" bytes read 0 written 935
+May  9 19:36:42 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|935|0|0|0|2f636f6e6669672f636f6e662e706870|]
+May  9 19:36:56 10.71.57.0 tmp112173347-804 mkdir name "/db-request" mode 0777
+May  9 19:36:56 10.71.57.0 tmp112173347-804 [10.71.57.0|mkdir|0|0|511|0|0|2f64622d72657175657374|]
+May  9 19:37:11 10.71.57.0 tmp112173347-804 open "/db-request/add-comment.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:37:11 10.71.57.0 tmp112173347-804 close "/db-request/add-comment.php" bytes read 0 written 1293
+May  9 19:37:11 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|1293|0|0|0|2f64622d726571756573742f6164642d636f6d6d656e742e706870|]
+May  9 19:37:12 10.71.57.0 tmp112173347-804 open "/db-request/get_comments.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:37:12 10.71.57.0 tmp112173347-804 close "/db-request/get_comments.php" bytes read 0 written 1322
+May  9 19:37:12 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|1322|0|0|0|2f64622d726571756573742f6765745f636f6d6d656e74732e706870|]
+May  9 19:37:12 10.71.57.0 tmp112173347-804 open "/db-request/get_roads.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:37:12 10.71.57.0 tmp112173347-804 close "/db-request/get_roads.php" bytes read 0 written 1729
+May  9 19:37:12 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|1729|0|0|0|2f64622d726571756573742f6765745f726f6164732e706870|]
+May  9 19:37:43 10.71.57.0 tmp112173347-804 mkdir name "/my-account" mode 0777
+May  9 19:37:43 10.71.57.0 tmp112173347-804 [10.71.57.0|mkdir|0|0|511|0|0|2f6d792d6163636f756e74|]
+May  9 19:37:59 10.71.57.0 tmp112173347-804 open "/my-account/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 19:37:59 10.71.57.0 tmp112173347-804 close "/my-account/index.php" bytes read 0 written 1113
+May  9 19:37:59 10.71.57.0 tmp112173347-804 [10.71.57.0|put|0|1113|0|0|0|2f6d792d6163636f756e742f696e6465782e706870|]
+May  9 19:42:43 10.71.57.0 tmp112173347-804 Connection closed by 10.71.57.0 port 29174
+May  9 19:42:59 10.71.57.0 tmp112173347-804 Connection closed by 10.71.57.0 port 29138
+May  9 19:42:59 10.71.57.0 tmp112173347-804 session closed for local user tmp112173347-804 from [10.71.57.0]
+May  9 19:59:38 10.71.57.0 tmp112173347-2057 Connection from 10.71.57.0 port 36772 on 82.165.88.81 port 22
+May  9 19:59:38 10.71.57.0 tmp112173347-2057 Accepted password for tmp112173347-2057 from 10.71.57.0 port 36772 ssh2
+May  9 19:59:38 10.71.57.0 tmp112173347-2057 Starting session: subsystem 'sftp' for tmp112173347-2057 from 10.71.57.0 port 36772 id 0
+May  9 19:59:38 10.71.57.0 tmp112173347-2057 session opened for local user tmp112173347-2057 from [10.71.57.0]
+May  9 20:04:38 10.71.57.0 tmp112173347-2057 session closed for local user tmp112173347-2057 from [10.71.57.0]
+May  9 20:04:38 10.71.57.0 tmp112173347-2057 Connection closed by 10.71.57.0 port 36772
+May  9 20:13:09 10.71.57.0 tmp112173347-4117 Connection from 10.71.57.0 port 41176 on 82.165.88.81 port 22
+May  9 20:13:09 10.71.57.0 tmp112173347-4117 Accepted password for tmp112173347-4117 from 10.71.57.0 port 41176 ssh2
+May  9 20:13:09 10.71.57.0 tmp112173347-4117 Starting session: subsystem 'sftp' for tmp112173347-4117 from 10.71.57.0 port 41176 id 0
+May  9 20:13:09 10.71.57.0 tmp112173347-4117 session opened for local user tmp112173347-4117 from [10.71.57.0]
+May  9 20:18:09 10.71.57.0 tmp112173347-4117 Connection closed by 10.71.57.0 port 41176
+May  9 20:18:09 10.71.57.0 tmp112173347-4117 session closed for local user tmp112173347-4117 from [10.71.57.0]
+May  9 20:25:38 10.71.57.0 tmp112173347-2645 Connection from 10.71.57.0 port 45772 on 82.165.88.81 port 22
+May  9 20:25:38 10.71.57.0 tmp112173347-2645 Accepted password for tmp112173347-2645 from 10.71.57.0 port 45772 ssh2
+May  9 20:25:38 10.71.57.0 tmp112173347-2645 Starting session: subsystem 'sftp' for tmp112173347-2645 from 10.71.57.0 port 45772 id 0
+May  9 20:25:38 10.71.57.0 tmp112173347-2645 session opened for local user tmp112173347-2645 from [10.71.57.0]
+May  9 20:25:40 10.71.57.0 tmp112173347-2645 open "/config/conf.php" flags READ mode 0666
+May  9 20:25:40 10.71.57.0 tmp112173347-2645 close "/config/conf.php" bytes read 935 written 0
+May  9 20:25:40 10.71.57.0 tmp112173347-2645 [10.71.57.0|get|0|935|0|0|0|2f636f6e6669672f636f6e662e706870|]
+May  9 20:26:59 10.71.57.0 tmp112173347-2645 open "/config/conf.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 20:26:59 10.71.57.0 tmp112173347-2645 close "/config/conf.php" bytes read 0 written 974
+May  9 20:26:59 10.71.57.0 tmp112173347-2645 [10.71.57.0|put|0|974|0|0|0|2f636f6e6669672f636f6e662e706870|]
+May  9 20:27:18 10.71.57.0 tmp112173347-2645 open "/header.php" flags READ mode 0666
+May  9 20:27:18 10.71.57.0 tmp112173347-2645 close "/header.php" bytes read 2752 written 0
+May  9 20:27:18 10.71.57.0 tmp112173347-2645 [10.71.57.0|get|0|2752|0|0|0|2f6865616465722e706870|]
+May  9 20:28:02 10.71.57.0 tmp112173347-2645 open "/header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 20:28:02 10.71.57.0 tmp112173347-2645 close "/header.php" bytes read 0 written 2668
+May  9 20:28:02 10.71.57.0 tmp112173347-2645 [10.71.57.0|put|0|2668|0|0|0|2f6865616465722e706870|]
+May  9 20:34:34 10.71.57.0 tmp112173347-2645 Connection closed by 10.71.57.0 port 45772
+May  9 20:34:34 10.71.57.0 tmp112173347-2645 session closed for local user tmp112173347-2645 from [10.71.57.0]
+May  9 22:50:28 10.71.57.0 tmp112173347-6156 Connection from 10.71.57.0 port 13308 on 82.165.88.81 port 22
+May  9 22:50:28 10.71.57.0 tmp112173347-6156 Accepted password for tmp112173347-6156 from 10.71.57.0 port 13308 ssh2
+May  9 22:50:28 10.71.57.0 tmp112173347-6156 Starting session: subsystem 'sftp' for tmp112173347-6156 from 10.71.57.0 port 13308 id 0
+May  9 22:50:28 10.71.57.0 tmp112173347-6156 session opened for local user tmp112173347-6156 from [10.71.57.0]
+May  9 22:50:44 10.71.57.0 tmp112173347-6156 open "/assets/icon.png" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 22:50:44 10.71.57.0 tmp112173347-6156 close "/assets/icon.png" bytes read 0 written 21472
+May  9 22:50:44 10.71.57.0 tmp112173347-6156 [10.71.57.0|put|0|21472|0|0|0|2f6173736574732f69636f6e2e706e67|]
+May  9 22:50:52 10.71.57.0 tmp112173347-6156 open "/header.php" flags READ mode 0666
+May  9 22:50:52 10.71.57.0 tmp112173347-6156 close "/header.php" bytes read 2668 written 0
+May  9 22:50:52 10.71.57.0 tmp112173347-6156 [10.71.57.0|get|0|2668|0|0|0|2f6865616465722e706870|]
+May  9 22:51:25 10.71.57.0 tmp112173347-6156 open "/header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May  9 22:51:25 10.71.57.0 tmp112173347-6156 close "/header.php" bytes read 0 written 2714
+May  9 22:51:25 10.71.57.0 tmp112173347-6156 [10.71.57.0|put|0|2714|0|0|0|2f6865616465722e706870|]
+May  9 22:56:44 10.71.57.0 tmp112173347-6156 session closed for local user tmp112173347-6156 from [10.71.57.0]
+May  9 22:56:44 10.71.57.0 tmp112173347-6156 Connection closed by 10.71.57.0 port 13308
+May 10 13:15:40 10.71.57.0 tmp112173347-122 Connection from 10.71.57.0 port 25292 on 82.165.88.81 port 22
+May 10 13:15:40 10.71.57.0 tmp112173347-122 Accepted password for tmp112173347-122 from 10.71.57.0 port 25292 ssh2
+May 10 13:15:40 10.71.57.0 tmp112173347-122 Starting session: subsystem 'sftp' for tmp112173347-122 from 10.71.57.0 port 25292 id 0
+May 10 13:15:40 10.71.57.0 tmp112173347-122 session opened for local user tmp112173347-122 from [10.71.57.0]
+May 10 13:15:47 10.71.57.0 tmp112173347-122 open "/add-to-map/save_route.php" flags READ mode 0666
+May 10 13:15:47 10.71.57.0 tmp112173347-122 close "/add-to-map/save_route.php" bytes read 1006 written 0
+May 10 13:15:47 10.71.57.0 tmp112173347-122 [10.71.57.0|get|0|1006|0|0|0|2f6164642d746f2d6d61702f736176655f726f7574652e706870|]
+May 10 13:16:04 10.71.57.0 tmp112173347-122 open "/db-request/add-comment.php" flags READ mode 0666
+May 10 13:16:04 10.71.57.0 tmp112173347-122 close "/db-request/add-comment.php" bytes read 1293 written 0
+May 10 13:16:04 10.71.57.0 tmp112173347-122 [10.71.57.0|get|0|1293|0|0|0|2f64622d726571756573742f6164642d636f6d6d656e742e706870|]
+May 10 13:16:12 10.71.57.0 tmp112173347-122 open "/db-request/add-comment.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 10 13:16:12 10.71.57.0 tmp112173347-122 close "/db-request/add-comment.php" bytes read 0 written 1293
+May 10 13:16:12 10.71.57.0 tmp112173347-122 [10.71.57.0|put|0|1293|0|0|0|2f64622d726571756573742f6164642d636f6d6d656e742e706870|]
+May 10 13:16:23 10.71.57.0 tmp112173347-122 open "/add-to-map/save_route.php" flags READ mode 0666
+May 10 13:16:23 10.71.57.0 tmp112173347-122 close "/add-to-map/save_route.php" bytes read 1006 written 0
+May 10 13:16:23 10.71.57.0 tmp112173347-122 [10.71.57.0|get|0|1006|0|0|0|2f6164642d746f2d6d61702f736176655f726f7574652e706870|]
+May 10 13:16:44 10.71.57.0 tmp112173347-122 open "/add-to-map/save_route.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 10 13:16:44 10.71.57.0 tmp112173347-122 close "/add-to-map/save_route.php" bytes read 0 written 1014
+May 10 13:16:44 10.71.57.0 tmp112173347-122 [10.71.57.0|put|0|1014|0|0|0|2f6164642d746f2d6d61702f736176655f726f7574652e706870|]
+May 10 13:17:52 10.71.57.0 tmp112173347-122 open "/add-to-map/save_route.php" flags READ mode 0666
+May 10 13:17:52 10.71.57.0 tmp112173347-122 close "/add-to-map/save_route.php" bytes read 1014 written 0
+May 10 13:17:52 10.71.57.0 tmp112173347-122 [10.71.57.0|get|0|1014|0|0|0|2f6164642d746f2d6d61702f736176655f726f7574652e706870|]
+May 10 13:22:24 10.71.57.0 tmp112173347-122 open "/add-to-map/save_route.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 10 13:22:24 10.71.57.0 tmp112173347-122 close "/add-to-map/save_route.php" bytes read 0 written 1014
+May 10 13:22:24 10.71.57.0 tmp112173347-122 [10.71.57.0|put|0|1014|0|0|0|2f6164642d746f2d6d61702f736176655f726f7574652e706870|]
+May 10 13:22:37 10.71.57.0 tmp112173347-122 open "/db-request/add-comment.php" flags READ mode 0666
+May 10 13:22:37 10.71.57.0 tmp112173347-122 close "/db-request/add-comment.php" bytes read 1293 written 0
+May 10 13:22:37 10.71.57.0 tmp112173347-122 [10.71.57.0|get|0|1293|0|0|0|2f64622d726571756573742f6164642d636f6d6d656e742e706870|]
+May 10 13:22:47 10.71.57.0 tmp112173347-122 open "/add-to-map/save_route.php" flags READ mode 0666
+May 10 13:22:47 10.71.57.0 tmp112173347-122 close "/add-to-map/save_route.php" bytes read 1014 written 0
+May 10 13:22:47 10.71.57.0 tmp112173347-122 [10.71.57.0|get|0|1014|0|0|0|2f6164642d746f2d6d61702f736176655f726f7574652e706870|]
+May 10 13:22:51 10.71.57.0 tmp112173347-122 open "/add-to-map/save_route.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 10 13:22:51 10.71.57.0 tmp112173347-122 close "/add-to-map/save_route.php" bytes read 0 written 1049
+May 10 13:22:51 10.71.57.0 tmp112173347-122 [10.71.57.0|put|0|1049|0|0|0|2f6164642d746f2d6d61702f736176655f726f7574652e706870|]
+May 10 13:27:57 10.71.57.0 tmp112173347-122 Connection closed by 10.71.57.0 port 25292
+May 10 13:27:57 10.71.57.0 tmp112173347-122 session closed for local user tmp112173347-122 from [10.71.57.0]
+May 13 18:04:20 10.71.57.0 tmp112173347-6665 Connection from 10.71.57.0 port 42290 on 82.165.88.81 port 22
+May 13 18:04:20 10.71.57.0 tmp112173347-6665 Accepted password for tmp112173347-6665 from 10.71.57.0 port 42290 ssh2
+May 13 18:04:20 10.71.57.0 tmp112173347-6665 Starting session: subsystem 'sftp' for tmp112173347-6665 from 10.71.57.0 port 42290 id 0
+May 13 18:04:20 10.71.57.0 tmp112173347-6665 session opened for local user tmp112173347-6665 from [10.71.57.0]
+May 13 18:04:23 10.71.57.0 tmp112173347-6665 open "/header.php" flags READ mode 0666
+May 13 18:04:23 10.71.57.0 tmp112173347-6665 close "/header.php" bytes read 2714 written 0
+May 13 18:04:23 10.71.57.0 tmp112173347-6665 [10.71.57.0|get|0|2714|0|0|0|2f6865616465722e706870|]
+May 13 18:04:37 10.71.57.0 tmp112173347-6665 open "/header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 13 18:04:37 10.71.57.0 tmp112173347-6665 close "/header.php" bytes read 0 written 2716
+May 13 18:04:37 10.71.57.0 tmp112173347-6665 [10.71.57.0|put|0|2716|0|0|0|2f6865616465722e706870|]
+May 13 18:04:52 10.71.57.0 tmp112173347-6665 open "/header.php" flags READ mode 0666
+May 13 18:04:52 10.71.57.0 tmp112173347-6665 close "/header.php" bytes read 2716 written 0
+May 13 18:04:52 10.71.57.0 tmp112173347-6665 [10.71.57.0|get|0|2716|0|0|0|2f6865616465722e706870|]
+May 13 18:05:01 10.71.57.0 tmp112173347-6665 open "/header.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 13 18:05:01 10.71.57.0 tmp112173347-6665 close "/header.php" bytes read 0 written 2718
+May 13 18:05:01 10.71.57.0 tmp112173347-6665 [10.71.57.0|put|0|2718|0|0|0|2f6865616465722e706870|]
+May 13 18:10:05 10.71.57.0 tmp112173347-6665 session closed for local user tmp112173347-6665 from [10.71.57.0]
+May 13 18:10:05 10.71.57.0 tmp112173347-6665 Connection closed by 10.71.57.0 port 42290
+May 14 05:01:10 10.71.57.0 tmp112173347-6943 Connection from 10.71.57.0 port 58912 on 82.165.88.81 port 22
+May 14 05:01:10 10.71.57.0 tmp112173347-6943 Accepted password for tmp112173347-6943 from 10.71.57.0 port 58912 ssh2
+May 14 05:01:10 10.71.57.0 tmp112173347-6943 Starting session: subsystem 'sftp' for tmp112173347-6943 from 10.71.57.0 port 58912 id 0
+May 14 05:01:10 10.71.57.0 tmp112173347-6943 session opened for local user tmp112173347-6943 from [10.71.57.0]
+May 14 05:01:14 10.71.57.0 tmp112173347-6943 open "/add-to-map/index.php" flags READ mode 0666
+May 14 05:01:14 10.71.57.0 tmp112173347-6943 close "/add-to-map/index.php" bytes read 1566 written 0
+May 14 05:01:14 10.71.57.0 tmp112173347-6943 [10.71.57.0|get|0|1566|0|0|0|2f6164642d746f2d6d61702f696e6465782e706870|]
+May 14 05:02:43 10.71.57.0 tmp112173347-6943 open "/add-to-map/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 14 05:02:43 10.71.57.0 tmp112173347-6943 close "/add-to-map/index.php" bytes read 0 written 1645
+May 14 05:02:43 10.71.57.0 tmp112173347-6943 [10.71.57.0|put|0|1645|0|0|0|2f6164642d746f2d6d61702f696e6465782e706870|]
+May 14 05:03:09 10.71.57.0 tmp112173347-6943 open "/add-to-map/index.php" flags READ mode 0666
+May 14 05:03:09 10.71.57.0 tmp112173347-6943 close "/add-to-map/index.php" bytes read 1645 written 0
+May 14 05:03:09 10.71.57.0 tmp112173347-6943 [10.71.57.0|get|0|1645|0|0|0|2f6164642d746f2d6d61702f696e6465782e706870|]
+May 14 05:03:29 10.71.57.0 tmp112173347-6943 open "/add-to-map/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 14 05:03:29 10.71.57.0 tmp112173347-6943 close "/add-to-map/index.php" bytes read 0 written 1654
+May 14 05:03:29 10.71.57.0 tmp112173347-6943 [10.71.57.0|put|0|1654|0|0|0|2f6164642d746f2d6d61702f696e6465782e706870|]
+May 14 05:03:45 10.71.57.0 tmp112173347-6943 open "/add-to-map/index.php" flags READ mode 0666
+May 14 05:03:45 10.71.57.0 tmp112173347-6943 close "/add-to-map/index.php" bytes read 1654 written 0
+May 14 05:03:45 10.71.57.0 tmp112173347-6943 [10.71.57.0|get|0|1654|0|0|0|2f6164642d746f2d6d61702f696e6465782e706870|]
+May 14 05:05:01 10.71.57.0 tmp112173347-6943 open "/add-to-map/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 14 05:05:01 10.71.57.0 tmp112173347-6943 close "/add-to-map/index.php" bytes read 0 written 1682
+May 14 05:05:01 10.71.57.0 tmp112173347-6943 [10.71.57.0|put|0|1682|0|0|0|2f6164642d746f2d6d61702f696e6465782e706870|]
+May 14 05:05:22 10.71.57.0 tmp112173347-6943 open "/my-account/index.php" flags READ mode 0666
+May 14 05:05:22 10.71.57.0 tmp112173347-6943 close "/my-account/index.php" bytes read 1113 written 0
+May 14 05:05:22 10.71.57.0 tmp112173347-6943 [10.71.57.0|get|0|1113|0|0|0|2f6d792d6163636f756e742f696e6465782e706870|]
+May 14 05:05:38 10.71.57.0 tmp112173347-6943 open "/my-account/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 14 05:05:38 10.71.57.0 tmp112173347-6943 close "/my-account/index.php" bytes read 0 written 1150
+May 14 05:05:38 10.71.57.0 tmp112173347-6943 [10.71.57.0|put|0|1150|0|0|0|2f6d792d6163636f756e742f696e6465782e706870|]
+May 14 05:09:28 10.71.57.0 tmp112173347-6943 open "/add-to-map/index.php" flags READ mode 0666
+May 14 05:09:28 10.71.57.0 tmp112173347-6943 close "/add-to-map/index.php" bytes read 1682 written 0
+May 14 05:09:28 10.71.57.0 tmp112173347-6943 [10.71.57.0|get|0|1682|0|0|0|2f6164642d746f2d6d61702f696e6465782e706870|]
+May 14 05:10:44 10.71.57.0 tmp112173347-6943 open "/add-to-map/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 14 05:10:44 10.71.57.0 tmp112173347-6943 close "/add-to-map/index.php" bytes read 0 written 1727
+May 14 05:10:44 10.71.57.0 tmp112173347-6943 [10.71.57.0|put|0|1727|0|0|0|2f6164642d746f2d6d61702f696e6465782e706870|]
+May 14 05:11:27 10.71.57.0 tmp112173347-6943 open "/add-to-map/index.php" flags READ mode 0666
+May 14 05:11:27 10.71.57.0 tmp112173347-6943 close "/add-to-map/index.php" bytes read 1727 written 0
+May 14 05:11:27 10.71.57.0 tmp112173347-6943 [10.71.57.0|get|0|1727|0|0|0|2f6164642d746f2d6d61702f696e6465782e706870|]
+May 14 05:12:17 10.71.57.0 tmp112173347-6943 open "/add-to-map/index.php" flags WRITE,CREATE,TRUNCATE mode 0666
+May 14 05:12:17 10.71.57.0 tmp112173347-6943 close "/add-to-map/index.php" bytes read 0 written 1744
+May 14 05:12:17 10.71.57.0 tmp112173347-6943 [10.71.57.0|put|0|1744|0|0|0|2f6164642d746f2d6d61702f696e6465782e706870|]
+May 14 05:17:22 10.71.57.0 tmp112173347-6943 Connection closed by 10.71.57.0 port 58912
+May 14 05:17:22 10.71.57.0 tmp112173347-6943 session closed for local user tmp112173347-6943 from [10.71.57.0]
+May 14 14:48:47 10.71.57.0 tmp112173347-2647 Connection from 10.71.57.0 port 27912 on 82.165.88.81 port 22
+May 14 14:48:47 10.71.57.0 tmp112173347-2647 Accepted password for tmp112173347-2647 from 10.71.57.0 port 27912 ssh2
+May 14 14:48:47 10.71.57.0 tmp112173347-2647 Starting session: subsystem 'sftp' for tmp112173347-2647 from 10.71.57.0 port 27912 id 0
+May 14 14:48:47 10.71.57.0 tmp112173347-2647 session opened for local user tmp112173347-2647 from [10.71.57.0]
+May 14 14:52:29 10.71.56.0 u112173347 Connection from 10.71.56.0 port 61912 on 82.165.88.81 port 22
+May 14 14:52:34 10.71.56.0 u112173347 Accepted password for u112173347 from 10.71.56.0 port 61912 ssh2
+May 14 14:52:34 10.71.56.0 u112173347 Starting session: subsystem 'sftp' for u112173347 from 10.71.56.0 port 61912 id 0
+May 14 14:52:34 10.71.56.0 u112173347 session opened for local user u112173347 from [10.71.56.0]
+May 14 14:52:51 10.71.56.0 u112173347 Connection from 10.71.56.0 port 61982 on 82.165.88.81 port 22
+May 14 14:52:51 10.71.56.0 u112173347 Accepted password for u112173347 from 10.71.56.0 port 61982 ssh2
+May 14 14:52:51 10.71.56.0 u112173347 Starting session: subsystem 'sftp' for u112173347 from 10.71.56.0 port 61982 id 0
+May 14 14:52:51 10.71.56.0 u112173347 session opened for local user u112173347 from [10.71.56.0]
+May 14 14:52:52 10.71.56.0 u112173347 open "/account-login/index.php" flags READ mode 0666
+May 14 14:52:52 10.71.56.0 u112173347 close "/account-login/index.php" bytes read 3550 written 0
+May 14 14:52:52 10.71.56.0 u112173347 [10.71.56.0|get|0|3550|0|0|0|2f6163636f756e742d6c6f67696e2f696e6465782e706870|]
+May 14 14:53:57 10.71.57.0 tmp112173347-2647 Connection closed by 10.71.57.0 port 27912
+May 14 14:53:57 10.71.57.0 tmp112173347-2647 session closed for local user tmp112173347-2647 from [10.71.57.0]
+May 14 14:54:26 10.71.56.0 u112173347 Connection closed by 10.71.56.0 port 61982
+May 14 14:54:26 10.71.56.0 u112173347 session closed for local user u112173347 from [10.71.56.0]
+May 14 14:54:33 10.71.56.0 u112173347 Connection from 10.71.56.0 port 62146 on 82.165.88.81 port 22
+May 14 14:54:33 10.71.56.0 u112173347 Accepted password for u112173347 from 10.71.56.0 port 62146 ssh2
+May 14 14:54:34 10.71.56.0 u112173347 Starting session: subsystem 'sftp' for u112173347 from 10.71.56.0 port 62146 id 0
+May 14 14:54:34 10.71.56.0 u112173347 session opened for local user u112173347 from [10.71.56.0]
+May 14 14:54:34 10.71.56.0 u112173347 Connection from 10.71.56.0 port 62148 on 82.165.88.81 port 22
+May 14 14:54:34 10.71.56.0 u112173347 Accepted password for u112173347 from 10.71.56.0 port 62148 ssh2
+May 14 14:54:34 10.71.56.0 u112173347 open "/header.php" flags READ mode 0666
+May 14 14:54:34 10.71.56.0 u112173347 Starting session: subsystem 'sftp' for u112173347 from 10.71.56.0 port 62148 id 0
+May 14 14:54:34 10.71.56.0 u112173347 session opened for local user u112173347 from [10.71.56.0]
+May 14 14:54:34 10.71.56.0 u112173347 close "/header.php" bytes read 2718 written 0
+May 14 14:54:34 10.71.56.0 u112173347 [10.71.56.0|get|0|2718|0|0|0|2f6865616465722e706870|]
+May 14 14:54:34 10.71.56.0 u112173347 open "/script.js" flags READ mode 0666
+May 14 14:54:35 10.71.56.0 u112173347 close "/script.js" bytes read 8952 written 0
+May 14 14:54:35 10.71.56.0 u112173347 [10.71.56.0|get|1|8952|0|0|0|2f7363726970742e6a73|]
+May 14 14:54:35 10.71.56.0 u112173347 open "/index.php" flags READ mode 0666
+May 14 14:54:35 10.71.56.0 u112173347 open "/styles.css" flags READ mode 0666
+May 14 14:54:35 10.71.56.0 u112173347 close "/index.php" bytes read 3699 written 0
+May 14 14:54:35 10.71.56.0 u112173347 [10.71.56.0|get|0|3699|0|0|0|2f696e6465782e706870|]
+May 14 14:54:35 10.71.56.0 u112173347 close "/styles.css" bytes read 204 written 0
+May 14 14:54:35 10.71.56.0 u112173347 [10.71.56.0|get|0|204|0|0|0|2f7374796c65732e637373|]
+May 14 14:54:35 10.71.56.0 u112173347 open "/account-login/index.php" flags READ mode 0666
+May 14 14:54:35 10.71.56.0 u112173347 open "/account-login/classes/signup.class.php" flags READ mode 0666
+May 14 14:54:35 10.71.56.0 u112173347 close "/account-login/index.php" bytes read 3550 written 0
+May 14 14:54:35 10.71.56.0 u112173347 [10.71.56.0|get|0|3550|0|0|0|2f6163636f756e742d6c6f67696e2f696e6465782e706870|]
+May 14 14:54:35 10.71.56.0 u112173347 close "/account-login/classes/signup.class.php" bytes read 1051 written 0
+May 14 14:54:35 10.71.56.0 u112173347 [10.71.56.0|get|0|1051|0|0|0|2f6163636f756e742d6c6f67696e2f636c61737365732f7369676e75702e636c6173732e706870|]
+May 14 14:54:35 10.71.56.0 u112173347 open "/account-login/classes/signup-controller.class.php" flags READ mode 0666
+May 14 14:54:35 10.71.56.0 u112173347 open "/account-login/classes/login.class.php" flags READ mode 0666
+May 14 14:54:35 10.71.56.0 u112173347 close "/account-login/classes/signup-controller.class.php" bytes read 1934 written 0
+May 14 14:54:35 10.71.56.0 u112173347 [10.71.56.0|get|0|1934|0|0|0|2f6163636f756e742d6c6f67696e2f636c61737365732f7369676e75702d636f6e74726f6c6c65722e636c6173732e706870|]
+May 14 14:54:35 10.71.56.0 u112173347 close "/account-login/classes/login.class.php" bytes read 1595 written 0
+May 14 14:54:35 10.71.56.0 u112173347 [10.71.56.0|get|0|1595|0|0|0|2f6163636f756e742d6c6f67696e2f636c61737365732f6c6f67696e2e636c6173732e706870|]
+May 14 14:54:35 10.71.56.0 u112173347 open "/account-login/classes/login-controller.class.php" flags READ mode 0666
+May 14 14:54:35 10.71.56.0 u112173347 open "/account-login/classes/dbh.class.php" flags READ mode 0666
+May 14 14:54:36 10.71.56.0 u112173347 close "/account-login/classes/login-controller.class.php" bytes read 289 written 0
+May 14 14:54:36 10.71.56.0 u112173347 [10.71.56.0|get|1|289|0|0|0|2f6163636f756e742d6c6f67696e2f636c61737365732f6c6f67696e2d636f6e74726f6c6c65722e636c6173732e706870|]
+May 14 14:54:36 10.71.56.0 u112173347 close "/account-login/classes/dbh.class.php" bytes read 790 written 0
+May 14 14:54:36 10.71.56.0 u112173347 [10.71.56.0|get|1|790|0|0|0|2f6163636f756e742d6c6f67696e2f636c61737365732f6462682e636c6173732e706870|]
+May 14 14:54:36 10.71.56.0 u112173347 open "/account-login/includes/signup.inc.php" flags READ mode 0666
+May 14 14:54:36 10.71.56.0 u112173347 open "/account-login/includes/logout.inc.php" flags READ mode 0666
+May 14 14:54:36 10.71.56.0 u112173347 close "/account-login/includes/signup.inc.php" bytes read 656 written 0
+May 14 14:54:36 10.71.56.0 u112173347 [10.71.56.0|get|0|656|0|0|0|2f6163636f756e742d6c6f67696e2f696e636c756465732f7369676e75702e696e632e706870|]
+May 14 14:54:36 10.71.56.0 u112173347 close "/account-login/includes/logout.inc.php" bytes read 88 written 0
+May 14 14:54:36 10.71.56.0 u112173347 [10.71.56.0|get|0|88|0|0|0|2f6163636f756e742d6c6f67696e2f696e636c756465732f6c6f676f75742e696e632e706870|]
+May 14 14:54:36 10.71.56.0 u112173347 open "/account-login/includes/login.inc.php" flags READ mode 0666
+May 14 14:54:36 10.71.56.0 u112173347 sent status No such file
+May 14 14:54:36 10.71.56.0 u112173347 close "/account-login/includes/login.inc.php" bytes read 542 written 0
+May 14 14:54:36 10.71.56.0 u112173347 [10.71.56.0|get|0|542|0|0|0|2f6163636f756e742d6c6f67696e2f696e636c756465732f6c6f67696e2e696e632e706870|]
+May 14 14:54:36 10.71.56.0 u112173347 open "/add-to-map/styles.css" flags READ mode 0666
+May 14 14:54:36 10.71.56.0 u112173347 close "/add-to-map/styles.css" bytes read 73 written 0
+May 14 14:54:36 10.71.56.0 u112173347 [10.71.56.0|get|0|73|0|0|0|2f6164642d746f2d6d61702f7374796c65732e637373|]
+May 14 14:54:36 10.71.56.0 u112173347 open "/add-to-map/script.js" flags READ mode 0666
+May 14 14:54:36 10.71.56.0 u112173347 open "/add-to-map/save_route.php" flags READ mode 0666
+May 14 14:54:37 10.71.56.0 u112173347 close "/add-to-map/save_route.php" bytes read 1049 written 0
+May 14 14:54:37 10.71.56.0 u112173347 [10.71.56.0|get|1|1049|0|0|0|2f6164642d746f2d6d61702f736176655f726f7574652e706870|]
+May 14 14:54:37 10.71.56.0 u112173347 close "/add-to-map/script.js" bytes read 3129 written 0
+May 14 14:54:37 10.71.56.0 u112173347 [10.71.56.0|get|1|3129|0|0|0|2f6164642d746f2d6d61702f7363726970742e6a73|]
+May 14 14:54:37 10.71.56.0 u112173347 open "/add-to-map/index.php" flags READ mode 0666
+May 14 14:54:37 10.71.56.0 u112173347 close "/add-to-map/index.php" bytes read 1744 written 0
+May 14 14:54:37 10.71.56.0 u112173347 [10.71.56.0|get|0|1744|0|0|0|2f6164642d746f2d6d61702f696e6465782e706870|]
+May 14 14:54:37 10.71.56.0 u112173347 open "/assets/icon.png" flags READ mode 0666
+May 14 14:54:37 10.71.56.0 u112173347 close "/assets/icon.png" bytes read 21472 written 0
+May 14 14:54:37 10.71.56.0 u112173347 [10.71.56.0|get|0|21472|0|0|0|2f6173736574732f69636f6e2e706e67|]
+May 14 14:54:37 10.71.56.0 u112173347 open "/assets/logo_1.png" flags READ mode 0666
+May 14 14:54:37 10.71.56.0 u112173347 close "/assets/logo_1.png" bytes read 38686 written 0
+May 14 14:54:37 10.71.56.0 u112173347 [10.71.56.0|get|0|38686|0|0|0|2f6173736574732f6c6f676f5f312e706e67|]
+May 14 14:54:37 10.71.56.0 u112173347 open "/config/conf.php" flags READ mode 0666
+May 14 14:54:37 10.71.56.0 u112173347 close "/config/conf.php" bytes read 974 written 0
+May 14 14:54:37 10.71.56.0 u112173347 [10.71.56.0|get|0|974|0|0|0|2f636f6e6669672f636f6e662e706870|]
+May 14 14:54:37 10.71.56.0 u112173347 open "/db-request/get_roads.php" flags READ mode 0666
+May 14 14:54:37 10.71.56.0 u112173347 open "/db-request/get_comments.php" flags READ mode 0666
+May 14 14:54:38 10.71.56.0 u112173347 close "/db-request/get_roads.php" bytes read 1729 written 0
+May 14 14:54:38 10.71.56.0 u112173347 [10.71.56.0|get|1|1729|0|0|0|2f64622d726571756573742f6765745f726f6164732e706870|]
+May 14 14:54:38 10.71.56.0 u112173347 close "/db-request/get_comments.php" bytes read 1322 written 0
+May 14 14:54:38 10.71.56.0 u112173347 [10.71.56.0|get|1|1322|0|0|0|2f64622d726571756573742f6765745f636f6d6d656e74732e706870|]
+May 14 14:54:38 10.71.56.0 u112173347 open "/db-request/add-comment.php" flags READ mode 0666
+May 14 14:54:38 10.71.56.0 u112173347 close "/db-request/add-comment.php" bytes read 1293 written 0
+May 14 14:54:38 10.71.56.0 u112173347 [10.71.56.0|get|0|1293|0|0|0|2f64622d726571756573742f6164642d636f6d6d656e742e706870|]
+May 14 14:54:38 10.71.56.0 u112173347 open "/logs/access.log.19.7" flags READ mode 0666
+May 14 14:54:38 10.71.56.0 u112173347 open "/logs/access.log.19.6.gz" flags READ mode 0666
+May 14 14:54:38 10.71.56.0 u112173347 close "/logs/access.log.19.7" bytes read 84474 written 0
+May 14 14:54:38 10.71.56.0 u112173347 [10.71.56.0|get|0|84474|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e37|]
+May 14 14:54:38 10.71.56.0 u112173347 open "/logs/access.log.19.5.gz" flags READ mode 0666
+May 14 14:54:38 10.71.56.0 u112173347 close "/logs/access.log.19.6.gz" bytes read 4687 written 0
+May 14 14:54:38 10.71.56.0 u112173347 [10.71.56.0|get|0|4687|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e362e677a|]
+May 14 14:54:38 10.71.56.0 u112173347 close "/logs/access.log.19.5.gz" bytes read 3117 written 0
+May 14 14:54:38 10.71.56.0 u112173347 [10.71.56.0|get|0|3117|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e352e677a|]
+May 14 14:54:38 10.71.56.0 u112173347 open "/logs/access.log.19.4.gz" flags READ mode 0666
+May 14 14:54:38 10.71.56.0 u112173347 open "/logs/access.log.19.3.gz" flags READ mode 0666
+May 14 14:54:38 10.71.56.0 u112173347 close "/logs/access.log.19.4.gz" bytes read 1395 written 0
+May 14 14:54:38 10.71.56.0 u112173347 [10.71.56.0|get|0|1395|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e342e677a|]
+May 14 14:54:38 10.71.56.0 u112173347 close "/logs/access.log.19.3.gz" bytes read 5807 written 0
+May 14 14:54:38 10.71.56.0 u112173347 [10.71.56.0|get|0|5807|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e332e677a|]
+May 14 14:54:38 10.71.56.0 u112173347 open "/logs/access.log.19.2.gz" flags READ mode 0666
+May 14 14:54:39 10.71.56.0 u112173347 open "/logs/last_traffic" flags READ mode 0666
+May 14 14:54:39 10.71.56.0 u112173347 close "/logs/access.log.19.2.gz" bytes read 2514 written 0
+May 14 14:54:39 10.71.56.0 u112173347 [10.71.56.0|get|1|2514|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e322e677a|]
+May 14 14:54:39 10.71.56.0 u112173347 close "/logs/last_traffic" bytes read 0 written 0
+May 14 14:54:39 10.71.56.0 u112173347 [10.71.56.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+May 14 14:54:39 10.71.56.0 u112173347 open "/logs/traffic.db" flags READ mode 0666
+May 14 14:54:39 10.71.56.0 u112173347 open "/logs/sftp.log" flags READ mode 0666
